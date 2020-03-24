@@ -166,3 +166,10 @@ module.exports = {
   }
 };
 ```
+
+# 4. 디자인 시스템 구축하기
+
+1. emotion 설치
+```properties
+yarn add --peer @emotion/core
+```
